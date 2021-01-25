@@ -7,3 +7,7 @@ Hoy hablaremos de su historia
 Aca agrego un parrafo en master para poder unir ramas(1)
 En camara parece alto pero la verdad es que no es tan alto
 y a partir de aca voy a hacer una cabecera 
+
+aca ya hice la cabecera con git checkout y branch 
+
+aca voy a agregar parrafo para unir rama en cabecera con merge
