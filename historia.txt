@@ -4,6 +4,6 @@ Emanuel Tiene 21 años en noviembre y Nacio en Argentina
 
 viajando por todo el mundo 
 Hoy hablaremos de su historia
-
+Aca agrego un parrafo en master para poder unir ramas(1)
 En camara parece alto pero la verdad es que no es tan alto
 y a partir de aca voy a hacer una cabecera 
